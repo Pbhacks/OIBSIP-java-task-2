@@ -2,7 +2,7 @@
 Oasis InfoByte Internship Task 02 by; Priyant
 Number Guessing Game
 
-![Alt text](https://github.com/Pbhacks/OIBSIP-java-task-1/blob/main/1.png)
+![Alt text](https://github.com/Pbhacks/OIBSIP-java-task-2/blob/main/1.png)
  
  USER MANUAL
 -------------
